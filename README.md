@@ -10,6 +10,8 @@
 
 ◼️ github : [https://github.com/project-dialendar/main-dialendar](https://github.com/project-dialendar/main-dialendar)
 
+◼️ apk 파일 : [설치 링크] https://drive.google.com/file/d/13dEow2B_oxlDt9NucW6UhWn3O62TTYfI/view?usp=sharing
+
 <br>
 
 ## 기획 의도
